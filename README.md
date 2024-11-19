@@ -1,6 +1,6 @@
 Name: Hazmi Bin Badrunsham
 Matric No: 2216595
-Note: I edited cloned and edited this file on vs code, ocassionaly, my ui is average and i guess using github is fun :3
+Note: I cloned and edited this file on vs code, ocassionaly, my ui is average and i guess using github is fun :3
 
 
 # :wave: The Basics of GitHub 
