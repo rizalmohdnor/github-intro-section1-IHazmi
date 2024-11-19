@@ -1,4 +1,7 @@
 # :wave: The Basics of GitHub 
+Name: Hazmi Bin Badrunsham
+Matric No: 2216595
+Note: Hazmi was here :3
 
 ## 🤓 Course overview and learning outcomes 
 
